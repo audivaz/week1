@@ -9,6 +9,4 @@
 ```
 <h1>Heading</h1>
 ```
-`html
-<h1>Heading2</h1>
-`
+`<h1>Heading2</h1>`
